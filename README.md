@@ -28,7 +28,7 @@ execute the script with python
 
 *Example:*
 
->python pingcheck.py <IP>
+>python pingcheck.py (IP-ADDRESS)
 
 i.e.
 
