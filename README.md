@@ -16,7 +16,7 @@ Debian:  edit crontab and create entry to run at desired interval.
 
 *Example:*
 
-"* * * * * python  /home/rjp/py/pingcheck.py 8.8.8.8"
+* * * * * python  /home/rjp/py/pingcheck.py 8.8.8.8
 
 This will run the script every minute against Google address 8.8.8.8
 
